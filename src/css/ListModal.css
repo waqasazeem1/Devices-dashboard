@@ -1,0 +1,12 @@
+form#nest-messages {
+    position: absolute;
+    left: 35%;
+    top: 20%;
+    background: white;
+    border-radius: 10px;
+    padding: 30px;
+    /* opacity: 0.9; */
+    height: 370px;
+    width: 500px;
+    border: 2px solid brown;
+}
